@@ -8,7 +8,7 @@
     - в формате .docx.
 
 #### Полный текст домашнего задания находится [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/blob/main/homework-12-3.md)
-#### База данных *HomeWork_12_3.dt с выполненными заданиями [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/releases/tag/HomeWork_12_3)
+#### База данных HomeWork_12_3.dt с выполненными заданиями [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/releases/tag/HomeWork_12_3)
 ## Задание 1. «Печать Анкеты клиента и Транспортной накладной»
 
 ### Результат задания
