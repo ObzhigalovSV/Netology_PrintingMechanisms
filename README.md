@@ -8,7 +8,7 @@
     - в формате .docx.
 
 #### Полный текст домашнего задания находится [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/blob/main/homework-12-3.md)
-#### База данных HomeWork_12_3.dt с выполненными заданиями [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/releases/tag/HomeWork_12_3)
+#### База данных HomeWork_12_3.dt с выполненными заданиями находится [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/releases/tag/HomeWork_12_3)
 #### Файлы конфигурации находятся в папке [МеханизмПечати](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/tree/main/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%B8)
 ## Задание 1. «Печать Анкеты клиента и Транспортной накладной»
 
