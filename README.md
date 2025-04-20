@@ -11,7 +11,7 @@
 #### База данных HomeWork_12_3.dt с выполненными заданиями находится [здесь](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/releases/tag/HomeWork_12_3)
 #### Файлы конфигурации находятся в папке [МеханизмПечати](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/tree/main/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%B8)
 ####  Примеры созданных документов 
-
+[Анкета клиента](https://github.com/ObzhigalovSV/Netology_PrintingMechanisms/blob/main/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0%20%E2%84%96%201%20%D0%BE%D1%82%2014.02.2024.pdf)
 
 ## Задание 1. «Печать Анкеты клиента и Транспортной накладной»
 
